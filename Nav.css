@@ -1,0 +1,38 @@
+.item-desc{
+    background-color:rgb(159, 33, 60);
+    border-style: solid;
+    font-size:20px;
+    border-radius: 25px;
+    color: aliceblue;
+    height:25vh;
+    margin-top: 1%;
+    margin: 12px;
+}
+.youtube-video{
+    margin-top:-350px;
+    margin-right:-250%;
+}
+#bt1{
+    margin-left: 90%;
+    margin-top:1%;
+}
+.img{
+    margin-right: 60%;
+}
+h1{
+    margin-top:-2%;
+    color:rgb(150, 28, 81);
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    text-decoration:solid
+}
+h2{
+    margin-top:3%;
+    color:rgb(5, 74, 35);
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    text-decoration:solid
+}
+button{
+    margin-top: 3px;
+}
